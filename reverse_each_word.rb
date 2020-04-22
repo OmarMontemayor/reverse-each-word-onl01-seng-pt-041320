@@ -1,3 +1,5 @@
 def reverse_each_word(string)
-  sting.split(" ")
+  new_array << string.split(" ")
+  new_array.each do |word|
+    
 end
